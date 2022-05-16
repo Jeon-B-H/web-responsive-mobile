@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500&display=swap');
+@import "css/basic/resest.css";
+@import "css/basic/variable.css";
+@import "css/component/header.css";
+@import "css/component/main.css";
+
+body {
+    background-color: var(--color-secondary);
+}

@@ -1,0 +1,25 @@
+/* header */
+:root {
+    --sidebar-height : 25rem;
+    --sidebar-width : 13rem;
+    --sidebar-y-axis : -25.5rem;
+    --sidebar-x-axis : -13.5rem;
+
+    --sidebar-list-space : 1rem;
+
+}
+
+/* color */
+:root {
+    --color-text : #fff;
+    --color-first : #ea4c89;
+    --color-secondary : #1d2063;
+}
+
+/* z-index */
+:root {
+    --z-back : -10;
+    --z-normal : 1;
+    --z-tooltip : 10;
+    --z-fixed : 100;
+}
